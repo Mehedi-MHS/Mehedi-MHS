@@ -14,26 +14,40 @@
  <ul>
   <li><strong>Frontend</strong><br>
  HTML😂,CSS, JAVASCRIPT, BOOTSTRAP, JQUERY,LESS.js,JSON,REACTJS and plugins.<br>
-  <img src="https://img.shields.io/badge/-BOOTSTRAP-black?style=plastic&logo=bootstrap" width="150px">
+  <img src="https://img.shields.io/badge/-BOOTSTRAP-black?style=plastic&logo=bootstrap" width="130px">
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" width="130px">
+     <img src="https://img.shields.io/badge/-jQuery-black?style=plastic&logo=jQuery" width="130px">
+       <img src="https://img.shields.io/badge/-LESS-black?style=plastic&logo=less" width="130px">
+     <img src="https://img.shields.io/badge/-CSS-black?style=plastic&logo=CSS" width="100px">
+     <img src="https://img.shields.io/badge/-JSON-black?style=plastic&logo=json" width="130px">
+     <img src="https://img.shields.io/badge/-ReactJs-black?style=plastic&logo=react" width="130px">
+
+
 
 </li>
 
 
   <li><strong>Backend</strong><br>
 JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL<br>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" width="150px">
-   <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" width="150px">
-   <img src="https://img.shields.io/badge/-Express-black?style=plastic&logo=Express" width=150px>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" width="130px">
+   <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" width="130px">
+   <img src="https://img.shields.io/badge/-Express-black?style=plastic&logo=Express" width=130px>
    <img src="https://img.shields.io/badge/-SQL-black?style=plastic&logo=sql" width=100px>
 
 
 </li>
   <li><strong>DATABASE</strong><br>MySQL,Mongodb(not much.will learn later)<br>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql" width="150px">
+  <img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql" width="130px">
 
 </li>
   <li><strong>OTHER TECHNOLOGIES<br>
-Linux,Git</li>
+Linux,Git <br>
+    <img src="https://img.shields.io/badge/-Linux-white?style=plastic&logo=linux" width="130px">
+      <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" width="130px">
+     <img src="https://img.shields.io/badge/-NPM-black?style=plastic&logo=npm" width="130px">
+
+
+</li>
 </ul>
 <br>
 
