@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi Friend ! <img src="https://raw.githubusercontent.com/Mehedi-MHS/Mehedi-MHS/main/wave.gif" width="30px">
 
-<!--
-**Mehedi-MHS/Mehedi-MHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I am <strong>Mehedi Hasan 😀</strong> , a technology lover.🌼</p>
+<details>
+ <summary> AUTOBIOGRAPHY</summary>
+ <ul>
+  <li>Started my journey after passing HSC exam from department of science</li>
+  <li>Started programming with C.</li>
+  <li>Then JavaScript and PHP as scripting language.</li>
+  <li>Now focusing on Nodejs and Express framework.</li>
+</details>
+<details>
+ <summary>TECHNOLOGIES</summary>
+ <ul>
+  <li><strong>Frontend</strong><br>
+ HTML😂,CSS, JAVASCRIPT, BOOTSTRAP, JQUERY,LESS.js,JSON,REACTJS and plugins</li>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <li><strong>Backend</strong><br>
+PHP,NODEJS, EXPRESSJS,SQL</li>
+
+  <li><strong>DATABASE</strong><br>MySQL,Mongodb(not much.will learn later)</li>
+  <li><strong>OTHER TECHNOLOGIES<br>
+Linux,Git</li>
+</details>
+ 
