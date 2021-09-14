@@ -13,14 +13,38 @@
  <summary>TECHNOLOGIES</summary>
  <ul>
   <li><strong>Frontend</strong><br>
- HTML😂,CSS, JAVASCRIPT, BOOTSTRAP, JQUERY,LESS.js,JSON,REACTJS and plugins</li>
+ HTML😂,CSS, JAVASCRIPT, BOOTSTRAP, JQUERY,LESS.js,JSON,REACTJS and plugins.<br>
+  <img src="https://img.shields.io/badge/-BOOTSTRAP-black?style=flat-square&logo=bootstrap" width="150px">
+
+</li>
 
 
   <li><strong>Backend</strong><br>
-PHP,NODEJS, EXPRESSJS,SQL</li>
+JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL<br>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" width="150px">
+   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" width="150px">
+   <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express" width=150px>
+   <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql" width=100px>
 
-  <li><strong>DATABASE</strong><br>MySQL,Mongodb(not much.will learn later)</li>
+
+</li>
+  <li><strong>DATABASE</strong><br>MySQL,Mongodb(not much.will learn later)<br>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" width="150px">
+
+</li>
   <li><strong>OTHER TECHNOLOGIES<br>
 Linux,Git</li>
+</ul>
+<br>
+
+</details>
+
+<details>
+ <summary>GET IN TOUCH</summary>
+ 
+  [![Gmail Badge](https://img.shields.io/badge/-mehedishuvo685638@gmail.com-?style=flat-square&logo=Gmail&logoColor=white&link=mailto:
+mehedishuvo685638@gmail.com)](mailto:mehedishuvo685638@gmail.com)
+
+
 </details>
  
