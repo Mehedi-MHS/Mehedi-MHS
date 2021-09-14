@@ -56,7 +56,8 @@ Linux,Git <br>
 <details>
  <summary>GET IN TOUCH</summary>
  
-  <a href="mailto:mehedishuvo685638@gmail.com"><img src="https://img.shields.io/badge/-gmail-?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:mehedishuvo685638@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=plastic&logo=Gmail&logoColor=white"></a>
+  <a href="https://quora.com/profile/Mehedi-Hasan-4725"><img src="https://img.shields.io/badge/-quora-white?style=plastic&logo=quora&logoColor=red"></a>
 
 </details>
  
