@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" width="130px">
      <img src="https://img.shields.io/badge/-jQuery-black?style=plastic&logo=jQuery" width="130px">
        <img src="https://img.shields.io/badge/-LESS-black?style=plastic&logo=less" width="130px">
-     <img src="https://img.shields.io/badge/-CSS-black?style=plastic&logo=CSS" width="100px">
+     <img src="https://img.shields.io/badge/-CSS-black?style=plastic&logo=CSS3" width="100px">
      <img src="https://img.shields.io/badge/-JSON-black?style=plastic&logo=json" width="130px">
      <img src="https://img.shields.io/badge/-ReactJs-black?style=plastic&logo=react" width="130px">
 
@@ -31,13 +31,15 @@
 JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL<br>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" width="130px">
    <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" width="130px">
-   <img src="https://img.shields.io/badge/-Express-black?style=plastic&logo=Express" width=130px>
+   <img src="https://img.shields.io/badge/-PHP-black?style=plastic&logo=php" width="130px">
+
+  <img src="https://img.shields.io/badge/-Express-black?style=plastic&logo=Express" width=130px>
    <img src="https://img.shields.io/badge/-SQL-black?style=plastic&logo=sql" width=100px>
 
 
 </li>
   <li><strong>DATABASE</strong><br>MySQL,Mongodb(not much.will learn later)<br>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql" width="130px">
+  <img src="https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql" width="130px">
 
 </li>
   <li><strong>OTHER TECHNOLOGIES<br>
