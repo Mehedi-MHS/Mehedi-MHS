@@ -45,7 +45,7 @@ JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL,Data structure and Algorithm (basic..not en
 </li>
   <li><strong>OTHER TECHNOLOGIES<br>
 Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
-    <img src="https://img.shields.io/badge/-Linux-green?style=plastic&logo=linux" width="100px">
+    <img src="https://img.shields.io/badge/-Linux-green?style=plastic&logo=linux&logoColor=black" width="100px">
       <img src="https://img.shields.io/badge/-Git-white?style=plastic&logo=git" width="80px">
      <img src="https://img.shields.io/badge/-NPM-black?style=plastic&logo=npm" width="100px">
       <img src="https://img.shields.io/badge/-SEO-black?style=plastic" width="70px">
@@ -62,6 +62,8 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
  
   <a href="mailto:mehedishuvo685638@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=plastic&logo=Gmail&logoColor=white"></a>
   <a href="https://quora.com/profile/Mehedi-Hasan-4725"><img src="https://img.shields.io/badge/-quora-white?style=plastic&logo=quora&logoColor=red"></a>
+  <a href=" https://www.facebook.com/profile.php?id=100051094778534 "><img src="https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook"></a>
+   
 
 </details>
  
