@@ -52,17 +52,18 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
      <img src="https://img.shields.io/badge/-CloudFlare-skyblue?style=plastic&logo=cloudflare" width="130px">
        
 </li>
+<li><strong>PROGRAMMING LANGUAGE</strong>
+  <h4> C/C++</h4>
+<br>
+  <img src="https://img.shields.io/badge/-C/C++-blue?style=plastic&logo=C&logoColor=white"width=90>
+</li>
 </ul>
 <br>
 
 </details>
 
-<details>
- <summary>PROGRAMMING LANGUAGE</summary>
-  <h3>• C/C++</h3>
-<br>
-  <img src="https://img.shields.io/badge/-C/C++-blue?style=plastic&logo=C&logoColor=white"width=90>
-</details>
+
+ 
 
 
 <details>
