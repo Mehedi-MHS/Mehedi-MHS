@@ -4,10 +4,10 @@
 <details>
  <summary> AUTOBIOGRAPHY</summary>
  <ul>
-  <li>Started my journey after passing HSC exam from department of science</li>
-  <li>Started programming with C.</li>
-  <li>Then JavaScript and PHP as scripting language.</li>
-  <li>Now focusing on Nodejs and Express framework.</li>
+  <li>Started my journey after passing HSC exam from department of science.</li>
+  <li>Started programming with <strong>C</strong>.</li>
+  <li>Then <strong>JavaScript</strong> and <strong>PHP</strong> as scripting language.</li>
+  <li>Now focusing on <strong>Nodejs</strong> and <strong>Express</strong> framework.</li>
 </details>
 <details>
  <summary>TECHNOLOGIES</summary>
@@ -56,6 +56,14 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
 <br>
 
 </details>
+
+<details>
+ <summary>PROGRAMMING LANGUAGE</summary>
+  <h3>• C/C++</h3>
+<br>
+  <img src="https://img.shields.io/badge/-C/C++-blue?style=plastic&logo=C&logoColor=white"width=90>
+</details>
+
 
 <details>
  <summary>GET IN TOUCH</summary>
