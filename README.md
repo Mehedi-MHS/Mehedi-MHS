@@ -72,7 +72,7 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
   <a href="mailto:mehedishuvo685638@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=plastic&logo=Gmail&logoColor=white"></a>
   <a href="https://quora.com/profile/Mehedi-Hasan-4725"><img src="https://img.shields.io/badge/-quora-white?style=plastic&logo=quora&logoColor=red"></a>
   <a href=" https://www.facebook.com/profile.php?id=100051094778534 "><img src="https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook"></a>
-  <a href=" https://twitter.com/MehediH69284662 "><img src="https://img.shields.io/badge/-twitter-white?style=plastic&logo=twitter"></a>
+  <a href=" https://twitter.com/_Mehedi_MHS"><img src="https://img.shields.io/badge/-twitter-white?style=plastic&logo=twitter"></a>
    
 
 
