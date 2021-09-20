@@ -1,6 +1,6 @@
 ## Hi Friend ! <img src="https://raw.githubusercontent.com/Mehedi-MHS/Mehedi-MHS/main/wave.gif" width="30px">
 
-<p> I am <strong>Mehedi Hasan 😀</strong> , a technology lover.🌼</p>
+<p> I am <strong>Mehedi Hasan 😀</strong> , a tech enthusiast.🌼</p>
 <details>
  <summary> AUTOBIOGRAPHY</summary>
  <ul>
