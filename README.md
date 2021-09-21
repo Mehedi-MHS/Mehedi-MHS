@@ -69,7 +69,7 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
   <a href="https://quora.com/profile/Mehedi-Hasan-4725"><img src="https://img.shields.io/badge/-quora-white?style=plastic&logo=quora&logoColor=red"></a>
   <a href="https://www.facebook.com/profile.php?id=100051094778534 "><img src="https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook"></a>
   <a href="https://twitter.com/_Mehedi_MHS"><img src="https://img.shields.io/badge/-twitter-white?style=plastic&logo=twitter"></a>
-  <a href="https://linkedin.com/li/mehedi-mhs"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
+  <a href="https://linkedin.com/in/mehedi-mhs"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
    
 
 
