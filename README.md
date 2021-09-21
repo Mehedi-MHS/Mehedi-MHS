@@ -62,10 +62,6 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
 
 </details>
 
-
- 
-
-
 <details>
  <summary>GET IN TOUCH</summary>
  
@@ -73,8 +69,23 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
   <a href="https://quora.com/profile/Mehedi-Hasan-4725"><img src="https://img.shields.io/badge/-quora-white?style=plastic&logo=quora&logoColor=red"></a>
   <a href="https://www.facebook.com/profile.php?id=100051094778534 "><img src="https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook"></a>
   <a href="https://twitter.com/_Mehedi_MHS"><img src="https://img.shields.io/badge/-twitter-white?style=plastic&logo=twitter"></a>
+  <a href="https://linkedin.com/li/mehedi-mhs"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
    
 
 
+</details>
+ 
+
+ 
+
+
+<details>
+ <summary>PROJECTS</summary>
+ 
+  <ul>
+    <li>First website(Mobile friendly | Not responsive | For practicing only)<br> 🌐 <a href="http://www.kolim.ml">www.kolim.ml</a></li>
+    <li>Last & latest website(Responsive portfolio website| For my uncle )<br> 🌐 <a href="https://mannan.ml">mannan.ml</a></li>
+    <li>Now making some useful plugins and interactive apps that is not present in the GitHub repository.Will share them soon .</li>
+  </ul>
 </details>
  
