@@ -29,7 +29,7 @@
 
 
   <li><strong>Backend</strong><br>
-JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL,Data structure and Algorithm (basic..not enough..)<br>
+JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL,Data structure and Algorithm <br>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" width="130px">
    <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" width="130px">
    <img src="https://img.shields.io/badge/-PHP-black?style=plastic&logo=php" width="70px">
@@ -67,9 +67,9 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
  
   <a href="mailto:mehedishuvo685638@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=plastic&logo=Gmail&logoColor=white"></a>
   <a href="https://quora.com/profile/Mehedi-Hasan-4725"><img src="https://img.shields.io/badge/-quora-white?style=plastic&logo=quora&logoColor=red"></a>
-  <a href="https://www.facebook.com/profile.php?id=100051094778534 "><img src="https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook"></a>
+  //<a href="https://www.facebook.com/profile.php?id=100051094778534 "><img src="https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook"></a>
   <a href="https://twitter.com/_Mehedi_MHS"><img src="https://img.shields.io/badge/-twitter-white?style=plastic&logo=twitter"></a>
-  <a href="https://linkedin.com/in/mehedi-mhs"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
+  //<a href="https://linkedin.com/in/mehedi-mhs"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn"></a>
    
 
 
@@ -80,12 +80,12 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
 
 
 <details>
- <summary>PROJECTS</summary>
+ <summary>Final goal</summary>
  
   <ul>
-    <li>First website(Mobile friendly | Not responsive | For practicing only)<br> 🌐 <a href="http://www.kolim.ml">www.kolim.ml</a></li>
-    <li>Last & latest website(Responsive portfolio website| For my uncle )<br> 🌐 <a href="https://mannan.ml">mannan.ml</a></li>
-    <li>Now making some useful plugins and interactive apps that is not present in the GitHub repository.Will share them soon .</li>
+    <li>Web & apps developer</a></li>
+    <li>Competitive programmer</li>
+    <li>Bringing some taste of AI and 3D graphics in the web</li>
   </ul>
 </details>
  
