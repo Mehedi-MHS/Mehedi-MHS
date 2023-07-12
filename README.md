@@ -29,7 +29,7 @@
 
 
   <li><strong>Backend</strong><br>
-JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL,Data structure and Algorithm <br>
+JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL,Data structure(Basic) <br>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" width="130px">
    <img src="https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js" width="130px">
    <img src="https://img.shields.io/badge/-PHP-black?style=plastic&logo=php" width="70px">
@@ -39,7 +39,7 @@ JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL,Data structure and Algorithm <br>
 
 
 </li>
-  <li><strong>DATABASE</strong><br>MySQL,Mongodb(not much.will learn later)<br>
+  <li><strong>DATABASE</strong><br>MySQL,Mongodb<br>
   <img src="https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql" width="100px">
    <img src="https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb" width="100px">
 
@@ -91,3 +91,4 @@ Linux,Git,NPM,SEO,CloudFlare(DNS)<br>
   </ul>
 </details>
  
+<p>Last Updated: <strong>12 July 2023</strong></p>
