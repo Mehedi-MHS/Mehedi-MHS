@@ -13,7 +13,7 @@
  <summary>TECHNOLOGIES</summary>
  <ul>
   <li><strong>Frontend</strong><br>
- HTML😂,CSS, JAVASCRIPT, BOOTSTRAP, JQUERY,LESS.js,JSON,REACTJS and plugins.<br>
+ HTML😂,CSS, JAVASCRIPT, BOOTSTRAP, JQUERY,LESS.js,JSON,REACTJS,TailwindCSS and plugins.<br>
     <img src="https://img.shields.io/badge/-HTML5-white?style=plastic&logo=html5" width="100px">
   <img src="https://img.shields.io/badge/-BOOTSTRAP-white?style=plastic&logo=bootstrap" width="130px">
     <img src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript" width="130px">
@@ -41,6 +41,7 @@ JAVASCRIPT,PHP,NODEJS, EXPRESSJS,SQL,Data structure and Algorithm <br>
 </li>
   <li><strong>DATABASE</strong><br>MySQL,Mongodb(not much.will learn later)<br>
   <img src="https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql" width="100px">
+   <img src="https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb" width="100px">
 
 </li>
   <li><strong>OTHER TECHNOLOGIES<br>
