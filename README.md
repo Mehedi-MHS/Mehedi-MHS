@@ -22,6 +22,7 @@
      <img src="https://img.shields.io/badge/-CSS-black?style=plastic&logo=CSS3" width="100px">
      <img src="https://img.shields.io/badge/-JSON-black?style=plastic&logo=json" width="130px">
      <img src="https://img.shields.io/badge/-ReactJs-black?style=plastic&logo=react" width="130px">
+      <img src="https://img.shields.io/badge/-mui-black?style=plastic&logo=mui" width="130px">
 
 
 
